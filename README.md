@@ -1,8 +1,8 @@
 # Educator's Toolkit
 
-**Plan, assess, and differentiate — everything a teacher needs in one pack.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**Plan the term, run the lesson, and grade it fairly — guidance for classroom teachers.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A complete set of skills for classroom educators: design lessons, build rubrics, generate quizzes, write student feedback, map curriculum, and differentiate instruction. Each skill delivers structured, opinionated guidance that saves planning time without sacrificing pedagogical quality.
+For classroom teachers who want to spend less time planning and more time teaching. Reach for this pack when you are mapping a term, designing a lesson, adapting it for a mixed-readiness room, and turning student work into fair grades and feedback that actually moves learners forward — plus support for building study plans and synthesizing source material. The guidance is opinionated and pedagogy-first, not generic templates, so each step starts from real structure instead of a blank page.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -14,14 +14,12 @@ A complete set of skills for classroom educators: design lessons, build rubrics,
 
 ## Skills in this pack
 
-- **[Lesson Plan Builder](skills/lesson-plan-builder/SKILL.md)** — Designs structured lesson plans with clear objectives, activities, and assessments.
-- **[Rubric Builder](skills/rubric-builder/SKILL.md)** — Builds fair, specific grading rubrics tied to learning objectives.
-- **[Quiz Generator](skills/quiz-generator/SKILL.md)** — Writes quizzes and assessments across varied cognitive levels using Bloom's Taxonomy.
-- **[Student Feedback Writer](skills/student-feedback-writer/SKILL.md)** — Writes specific, growth-oriented written feedback for student work.
 - **[Curriculum Mapper](skills/curriculum-mapper/SKILL.md)** — Maps a curriculum or scope-and-sequence across a term or year.
+- **[Lesson Plan Builder](skills/lesson-plan-builder/SKILL.md)** — Designs structured lesson plans with clear objectives, activities, and assessments.
 - **[Differentiated Instruction](skills/differentiated-instruction/SKILL.md)** — Adapts a lesson or unit for different readiness levels and learning needs.
-- **[Study System](skills/study-system/SKILL.md)** — Applies spaced repetition, active recall, and interleaving to any learning curriculum.
-- **[Research Synthesis](skills/research-synthesis/SKILL.md)** — Turns 20+ sources into a structured synthesis: themes, tensions, gaps, and so-what.
+- **[Quiz Generator](skills/quiz-generator/SKILL.md)** — Writes quizzes and assessments across varied cognitive levels using Bloom's Taxonomy.
+- **[Rubric Builder](skills/rubric-builder/SKILL.md)** — Builds fair, specific grading rubrics tied to learning objectives.
+- **[Student Feedback Writer](skills/student-feedback-writer/SKILL.md)** — Writes specific, growth-oriented written feedback for student work.
 
 ## License
 
