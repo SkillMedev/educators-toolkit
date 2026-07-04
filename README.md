@@ -9,7 +9,7 @@ For classroom teachers who want to spend less time planning and more time teachi
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/educators-toolkit](https://skillme.dev/pack/educators-toolkit) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/educators-toolkit`
+- **With the skills CLI:** `npx skills add SkillMedev/educators-toolkit`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
